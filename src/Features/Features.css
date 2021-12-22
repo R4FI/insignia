@@ -1,0 +1,21 @@
+.feature{
+    margin-top: 185px;
+    background: radial-gradient(38.2% 50% at 50% 50%, #2E3134 0%, #292B2E 100%);
+    border: none;
+    box-shadow: inset 2px 2px 40px rgba(0, 0, 0, 0.3);
+    border-radius: 50px;
+    padding: 50px;
+}
+
+.cardbg{
+    background: #212121;
+    box-shadow: 9px 9px 10px rgba(0, 0, 0, 0.25), -9px -9px 10px rgba(75, 93, 104, 0.1);
+    border-radius: 50px;
+    padding: 50px;
+    border: none;
+}
+
+.learnmore{
+        color: turquoise;
+        font-size: 15px;
+}

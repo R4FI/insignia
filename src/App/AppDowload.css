@@ -1,0 +1,15 @@
+.appdownlad{
+    margin-top: 182px;
+    border-radius: 50px;
+    background: radial-gradient(38.2% 50% at 50% 50%, #2E3134 0%, #292B2E 100%);
+    box-shadow: inset 2px 2px 40px rgba(0, 0, 0, 0.3);
+    
+}
+
+.phoneimg{
+    overflow:visible;
+}
+
+.dload{
+    margin-top: 125px;
+}

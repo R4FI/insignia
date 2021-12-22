@@ -1,0 +1,53 @@
+.foot{
+    margin-top: 100px;
+}
+
+.footimg{
+    height: 60px;
+    width:  60px;
+}
+.headcolor{
+    color:  turquoise;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.footcolor{
+
+    color:  turquoise;
+    margin-top: 64px;
+}
+
+.aboutlink{
+    color: turquoise !important;
+}
+
+.headcolor2{
+    color: turquoise;
+}
+.logo1{
+    background-color: #282828;
+    padding: 12px;
+    border-radius: 60px;
+    filter: drop-shadow(4px 3px 8px rgba(0, 0, 0, 0.25)) drop-shadow(-3px -3px 8px rgba(75, 93, 104, 0.1));
+    background: #282828;
+    box-shadow: inset 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+.logo2{
+    background-color: #282828;
+    padding: 12px;
+    border-radius: 60px;
+    margin-left: 10px;
+    filter: drop-shadow(4px 3px 8px rgba(0, 0, 0, 0.25)) drop-shadow(-3px -3px 8px rgba(75, 93, 104, 0.1));
+    background: #282828;
+    box-shadow: inset 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+.logo3{
+    background-color: #282828;
+    padding: 12px;
+    border-radius: 60px;
+    margin-left: 10px;
+    filter: drop-shadow(4px 3px 8px rgba(0, 0, 0, 0.25)) drop-shadow(-3px -3px 8px rgba(75, 93, 104, 0.1));
+    background: #282828;
+    box-shadow: inset 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
